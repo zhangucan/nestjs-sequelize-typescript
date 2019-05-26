@@ -1,7 +1,7 @@
 export const config = {
     database: {
         dialect: 'postgres',
-        host: 'localhost',
+        host: '47.105.47.65',
         port: 5432,
         username: 'postgres',
         password: 'postgres',
